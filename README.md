@@ -21,7 +21,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Daniela-Padilha/Daniela-Padilha/output/snake.svg" alt="Snake animation" />
-
-###
