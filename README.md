@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="left">My eagerness to learn new skills, and  continuosly challenge myself brought me into the amazing world of progamming. I have a passion for music, books and games. I'm a Biologist with a MSc in Ecology.<br><br>I am currently studying at 42 Porto.<br><br>Here you can find some of my projects!</h5>
 
 ###
