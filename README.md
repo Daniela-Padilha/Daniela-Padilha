@@ -1,4 +1,4 @@
-![] (https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm8ybzc4b3kwYXY5b2RhbDV6ZjMza2wzcXlsaWNvajQ4MHgzbG80MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.webp)
+
 
 <h2 align="left">Hi! I'm Daniela</h2>
 
