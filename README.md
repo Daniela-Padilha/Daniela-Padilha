@@ -60,7 +60,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss logo"  />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180420/uww/avfap3qdm.webp" height="40" alt="qgis logo"  />
+  <img src="https://www.qgis.org/styleguide/visual/qgis-logo.png" height="40" alt="qgis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   
