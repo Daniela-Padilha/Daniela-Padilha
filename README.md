@@ -1,4 +1,4 @@
-
+![](https://github.com/Daniela-Padilha/Aesthetic/blob/main/dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a.gif)
 
 <h2 align="left">Hi! I'm Daniela</h2>
 
