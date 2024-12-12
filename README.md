@@ -68,4 +68,52 @@
   
 </div>
 
+##
+
+</details>
+
+<details>
+<summary>42 Common Core</summary>
+
+## Projects
+
+| Project | Status   | Language | Score       |
+| ------- | -------- | -------- | ----------- |
+| [libft](https://github.com/Daniela-Padilha/42_libft) | Completed | C        | 125 / 100  ✅ ✨ |
+| [ft_printf](https://github.com/Daniela-Padilha/42_ft_printf)| Completed | C        | 100 / 100 ✅ |
+| [get_next_line](https://github.com/Daniela-Padilha/42_get_next_line)| In Progress... | C        | ❓❓❓/100  |
+| [Born2beroot]()| In Progress... | Shell       | ❓❓❓/100  |
+
+</details>
+
+</div>
+
+##
+
+<details>
+<summary>42 Piscine</summary>
+
+## Projects
+
+| Project |  Status   | Language |   Score    |
+| ------- | --------  | -------- | -----------|
+| [Shell00](https://github.com/Daniela-Padilha/42Piscine/tree/main/shell00)   | Completed |    Shell     | 60/100    ✅ |
+| [Shell01](https://github.com/Daniela-Padilha/42Piscine/tree/main/shell01)   | Completed |    Shell     | 55/100    ✅ |
+| [C00](https://github.com/Daniela-Padilha/42Piscine/tree/main/C00)   | Completed |    C     | 85/100    ✅ |
+| [C01](https://github.com/Daniela-Padilha/42Piscine/tree/main/C01)   | Completed |    C     | 70/100   ✅ |
+| [C02](https://github.com/Daniela-Padilha/42Piscine/tree/main/C02)   | Completed |    C     | 75/100    ✅ |
+| [C03](https://github.com/Daniela-Padilha/42Piscine/tree/main/C03)   | Completed |    C     | 75/100    ✅ |
+| [C04](https://github.com/Daniela-Padilha/42Piscine/tree/main/C04)   | Completed |    C     | 70/100    ✅ |
+| [C05](https://github.com/Daniela-Padilha/42Piscine/tree/main/C05)   | Completed |    C     | 80/100    ✅ |
+| [C06](https://github.com/Daniela-Padilha/42Piscine/tree/main/C06)   | Completed |    C     | 70/100   ✅ |
+| [C07](https://github.com/Daniela-Padilha/42Piscine/tree/main/C07)   | Completed |    C     | 60/100    ✅ |
+| [C08](https://github.com/Daniela-Padilha/42Piscine/tree/main/C08)   | Completed |    C     | 70/100   ✅ |
+| [Rush00](https://github.com/Daniela-Padilha/42Piscine/tree/main/rush00)   | Completed |    C     | 116/100  ✅ ✨ |
+| [Rush01](https://github.com/Daniela-Padilha/42Piscine/tree/main/Rush01)   | Failed |    C     | 0/100    ❌  |
+| Exam 00  | Failed |    C     |  10/100    ❌  |
+| Exam 01  | Completed |    C     |  50/100    ✅  |
+| Exam 02  | Completed |    C     |  60/100   ✅ |
+| Final Exam  | Completed |    C     |  48/100   ✅|
+| [Piscine Reload](https://github.com/Daniela-Padilha/Piscine_Reloaded) | Completed | C | 100/100 ✅ ✨ |
+
 ###
