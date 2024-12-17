@@ -82,7 +82,7 @@
 | [libft](https://github.com/Daniela-Padilha/42_libft) | Completed | C        | 125 / 100  ✅ ✨ |
 | [ft_printf](https://github.com/Daniela-Padilha/42_ft_printf)| Completed | C        | 100 / 100 ✅ |
 | [get_next_line](https://github.com/Daniela-Padilha/42_get_next_line)| In Progress... | C        | ❓❓❓/100  |
-| [Born2beroot]()| In Progress... | Shell       | ❓❓❓/100  |
+| [Born2beroot](https://github.com/Daniela-Padilha/42_born2beroot)| In Progress... | Shell       | ❓❓❓/100  |
 
 </details>
 
