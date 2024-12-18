@@ -84,8 +84,15 @@
 | [get_next_line](https://github.com/Daniela-Padilha/42_get_next_line)| In Progress... | C        | ❓❓❓/100  |
 | [Born2beroot](https://github.com/Daniela-Padilha/42_born2beroot)| In Progress... | Shell       | ❓❓❓/100  |
 
-</details>
+## Exams
 
+| Exam | Status   | Language | Score       |
+| ---- | -------- | -------- | ----------- |
+| [Exam 02](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone2)| In Progress... | C        | ❓❓❓/100  |
+| ... | ... | ... | ... |
+
+
+</details>
 </div>
 
 ##
