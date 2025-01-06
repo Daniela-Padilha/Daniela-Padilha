@@ -76,6 +76,7 @@
 <summary>42 Common Core</summary>
 
 ## Projects
+<center>
 
 | Project | Status   | Language | Score       |
 | ------- | -------- | -------- | ----------- |
@@ -87,6 +88,7 @@
 |[Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| In Progress... | C       | ❓❓❓ / 100 |
 |[Fdf](https://github.com/Daniela-Padilha/42_fdf)| In Progress... | C       | ❓❓❓ / 100 |
 
+</center>
 
 ## Exams
 
