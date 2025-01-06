@@ -92,7 +92,7 @@
 
 | Exam | Status   | Language | Score       |
 | ---- | -------- | -------- | ----------- |
-| [Exam 02](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone2)| In Progress... | C        | ❓❓❓/100  |
+| [Exam 02](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone2)| Completed | C        | 100/100  |
 | ... | ... | ... | ... |
 
 
