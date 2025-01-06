@@ -76,7 +76,7 @@
 <summary>42 Common Core</summary>
 
 ## Projects
-<center>
+<div align="center">
 
 | Project | Status   | Language | Score       |
 | ------- | -------- | -------- | ----------- |
@@ -88,16 +88,18 @@
 |[Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| In Progress... | C       | ❓❓❓ / 100 |
 |[Fdf](https://github.com/Daniela-Padilha/42_fdf)| In Progress... | C       | ❓❓❓ / 100 |
 
-</center>
+</div>
 
 ## Exams
+
+<div align="center">
 
 | Exam | Status   | Language | Score       |
 | ---- | -------- | -------- | ----------- |
 | [Exam 02](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone2)| Completed | C        | 100/100  |
 | ... | ... | ... | ... |
 
-
+</div>
 </details>
 </div>
 
@@ -107,6 +109,7 @@
 <summary>42 Piscine</summary>
 
 ## Projects
+<div align="center">
 
 | Project |  Status   | Language |   Score    |
 | ------- | --------  | -------- | -----------|
@@ -130,3 +133,4 @@
 | [Piscine Reload](https://github.com/Daniela-Padilha/Piscine_Reloaded) | Completed | C | 100/100 ✅ ✨ |
 
 ###
+</div>
