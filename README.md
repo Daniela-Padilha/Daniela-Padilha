@@ -1,6 +1,7 @@
+
 ![](https://github.com/Daniela-Padilha/Aesthetic/blob/main/dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a.gif)
 
-<h2 align="left">Hi! I'm Daniela</h2>
+<h2 align="left">Hi! I'm Daniela</h2> <a href="mailto: danielasofiapadilha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/daniela-sofia-padilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ###
 
