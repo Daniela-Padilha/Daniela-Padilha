@@ -101,15 +101,14 @@
 | ... | ... | ... | ... |
 
 </div>
-</details>
-</div>
 
 ##
+
+</details>
 
 <details>
 <summary>42 Piscine</summary>
 
-## Projects
 <div align="center">
 
 | Project |  Status   | Language |   Score    |
@@ -133,5 +132,19 @@
 | Final Exam  | Completed |    C     |  48/100   ✅|
 | [Piscine Reload](https://github.com/Daniela-Padilha/Piscine_Reloaded) | Completed | C | 100/100 ✅ ✨ |
 
-###
+</div>
+
+##
+
+</details>
+
+<details>
+<summary>Data Analysis</summary>
+
+<div align="left">
+
+Power BI
+- [Wine Productivity Project](https://github.com/Daniela-Padilha/Wine_Productivity_Analysis)
+
+
 </div>
