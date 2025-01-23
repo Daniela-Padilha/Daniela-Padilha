@@ -144,7 +144,9 @@
 <div align="left">
 
 Power BI
+
 - [Wine Productivity Project](https://github.com/Daniela-Padilha/Wine_Productivity_Analysis)
+- [Toy Store Sales Project](https://github.com/Daniela-Padilha/ToyStore_Sales_Project)
 
 
 </div>
