@@ -88,7 +88,8 @@
 | [Pipex](https://github.com/Daniela-Padilha/42_pipex)| Completed | C       | 125 / 100 ✅ ✨ |
 | [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| In Progress... | C       | ❓❓❓ / 100 |
 | [Fdf](https://github.com/Daniela-Padilha/42_fdf)| Completed | C       | 123 / 100 ✅ ✨ |
-
+| [Minishell]()| In Progress... | C       | ❓❓❓ / 100 |
+| [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| In Progress... | C       | ❓❓❓ / 100 |
 </div>
 
 ## Exams
