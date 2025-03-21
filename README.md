@@ -86,7 +86,7 @@
 | [get_next_line](https://github.com/Daniela-Padilha/42_get_next_line)| Completed | C        | 125 / 100 ✅ ✨ |
 | [Born2beroot](https://github.com/Daniela-Padilha/42_born2beroot)| Completed | Shell       | 100 / 100 ✅ |
 | [Pipex](https://github.com/Daniela-Padilha/42_pipex)| Completed | C       | 125 / 100 ✅ ✨ |
-| [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| In Progress... | C       | ❓❓❓ / 100 |
+| [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| Completed | C       | 100 / 100 ✅ |
 | [Fdf](https://github.com/Daniela-Padilha/42_fdf)| Completed | C       | 123 / 100 ✅ ✨ |
 | [Minishell]()| In Progress... | C       | ❓❓❓ / 100 |
 | [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| In Progress... | C       | ❓❓❓ / 100 |
