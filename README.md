@@ -88,7 +88,7 @@
 | [Pipex](https://github.com/Daniela-Padilha/42_pipex)| Completed | C       | 125 / 100 ✅ ✨ |
 | [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| Completed | C       | 100 / 100 ✅ |
 | [Fdf](https://github.com/Daniela-Padilha/42_fdf)| Completed | C       | 123 / 100 ✅ ✨ |
-| [Minishell]()| In Progress... | C       | ❓❓❓ / 100 |
+| [Minishell](https://github.com/izzytoot/minishell)| In Progress... | C       | ❓❓❓ / 100 |
 | [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| In Progress... | C       | ❓❓❓ / 100 |
 </div>
 
@@ -99,7 +99,8 @@
 | Exam | Status   | Language | Score       |
 | ---- | -------- | -------- | ----------- |
 | [Exam 02](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone2)| Completed | C        | 100 / 100 ✅ |
-| [Exam 03](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone%203)| In Progress... | C        | ❓❓❓ / 100  |
+| [Exam 03](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone%203)| Completed | C        | 100 / 100 ✅ |
+| [Exam 04]()| In Progress... | C        | ❓❓❓ / 100 |
 | ... | ... | ... | ... |
 
 </div>
