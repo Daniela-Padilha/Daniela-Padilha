@@ -88,7 +88,7 @@
 | [Pipex](https://github.com/Daniela-Padilha/42_pipex)| Completed | C       | 125 / 100 ✅ ✨ |
 | [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| Completed | C       | 100 / 100 ✅ |
 | [Fdf](https://github.com/Daniela-Padilha/42_fdf)| Completed | C       | 123 / 100 ✅ ✨ |
-| [Minishell](https://github.com/izzytoot/minishell)| In Progress... | C       | ❓❓❓ / 100 |
+| [Minishell](https://github.com/Daniela-Padilha/minishell)| COmpleted | C       | ❓❓❓ / 100 |
 | [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| In Progress... | C       | ❓❓❓ / 100 |
 </div>
 
