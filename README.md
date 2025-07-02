@@ -7,6 +7,8 @@
 
 <h4 align="left">My eagerness to learn new skills, and  continuosly challenge myself brought me into the amazing world of progamming. I have a passion for music, books and games. I'm a Biologist with a MSc in Ecology.<br><br>I am currently studying at 42 Porto.<br><br>Here you can find some of my projects!</h4>
 
+💻 Last Project: [Minishell](https://github.com/Daniela-Padilha/minishell)</h4>
+
 ###
 
 <br clear="both">
@@ -90,6 +92,13 @@
 | [Fdf](https://github.com/Daniela-Padilha/42_fdf)| Completed | C       | 123 / 100 ✅ ✨ |
 | [Minishell](https://github.com/Daniela-Padilha/minishell)| Completed | C       | 98 / 100      ✅ |
 | [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| In Progress... | C       | ❓❓❓ / 100 |
+| [Cubo3D]()| Soon... | C       | ❓❓❓ / 100 |
+| [CP00](https://github.com/Daniela-Padilha/42_CPP00)| In Progress... | C++     | ❓❓❓ / 100 |
+| [CPP01]()| Soon... | C++     | ❓❓❓ / 100 |
+| [CPP02]()| Soon... | C++     | ❓❓❓ / 100 |
+| [CPP03]()| Soon... | C++     | ❓❓❓ / 100 |
+| [CPP04]()| Soon... | C++     | ❓❓❓ / 100 |
+| [NetPractice]()| Soon... | Networking     | ❓❓❓ / 100 |
 </div>
 
 ## Exams
@@ -101,6 +110,7 @@
 | [Exam 02](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone2)| Completed | C        | 100 / 100 ✅ |
 | [Exam 03](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone%203)| Completed | C        | 100 / 100 ✅ |
 | [Exam 04]()| In Progress... | C        | ❓❓❓ / 100 |
+| [Exam 05]()| Soon... | C++        | ❓❓❓ / 100 |
 | ... | ... | ... | ... |
 
 </div>
