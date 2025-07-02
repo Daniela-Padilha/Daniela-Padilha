@@ -93,7 +93,7 @@
 | [Minishell](https://github.com/Daniela-Padilha/minishell)| Completed | C       | 98 / 100      ✅ |
 | [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| In Progress... | C       | ❓❓❓ / 100 |
 | [Cubo3D]()| Soon... | C       | ❓❓❓ / 100 |
-| [CP00](https://github.com/Daniela-Padilha/42_CPP00)| In Progress... | C++     | ❓❓❓ / 100 |
+| [CPP00](https://github.com/Daniela-Padilha/42_CPP00)| In Progress... | C++     | ❓❓❓ / 100 |
 | [CPP01]()| Soon... | C++     | ❓❓❓ / 100 |
 | [CPP02]()| Soon... | C++     | ❓❓❓ / 100 |
 | [CPP03]()| Soon... | C++     | ❓❓❓ / 100 |
