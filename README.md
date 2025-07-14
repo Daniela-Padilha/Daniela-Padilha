@@ -71,8 +71,15 @@
   
 </div>
 
-##
 
+## My Projects
+
+📁 Coming Soon...
+
+Stay tuned for upcoming C++ projects and other exciting developments!  
+This section will be updated regularly with descriptions, goals, and links to each project repository.
+
+## Academic Projects
 </details>
 
 <details>
@@ -92,13 +99,13 @@
 | [Fdf](https://github.com/Daniela-Padilha/42_fdf)| Completed | C       | 123 / 100 ✅ ✨ |
 | [Minishell](https://github.com/Daniela-Padilha/minishell)| Completed | C       | 98 / 100      ✅ |
 | [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| In Progress... | C       | ❓❓❓ / 100 |
-| [Cubo3D]()| Soon... | C       | ❓❓❓ / 100 |
-| [CPP00](https://github.com/Daniela-Padilha/42_CPP00)| In Progress... | C++     | ❓❓❓ / 100 |
-| [CPP01]()| Soon... | C++     | ❓❓❓ / 100 |
-| [CPP02]()| Soon... | C++     | ❓❓❓ / 100 |
-| [CPP03]()| Soon... | C++     | ❓❓❓ / 100 |
-| [CPP04]()| Soon... | C++     | ❓❓❓ / 100 |
+| [CPP00](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP00)| In Progress... | C++     | ❓❓❓ / 100 |
+| [CPP01](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP01)| Soon... | C++     | ❓❓❓ / 100 |
+| [CPP02](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP02)| Soon... | C++     | ❓❓❓ / 100 |
+| [CPP03](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP03)| Soon... | C++     | ❓❓❓ / 100 |
+| [CPP04](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP04)| Soon... | C++     | ❓❓❓ / 100 |
 | [NetPractice]()| Soon... | Networking     | ❓❓❓ / 100 |
+| [Cubo3D]()| Soon... | C       | ❓❓❓ / 100 |
 </div>
 
 ## Exams
