@@ -7,7 +7,7 @@
 
 <h4 align="left">My eagerness to learn new skills, and  continuosly challenge myself brought me into the amazing world of progamming. I have a passion for music, books and games. I'm a Biologist with a MSc in Ecology.<br><br>I am currently studying at 42 Porto.<br><br>Here you can find some of my projects!</h4>
 
-💻 Last Project: [C++ projects](https://github.com/Daniela-Padilha/CPP)</h4>
+💻 Last Project: [C++ projects](https://github.com/Daniela-Padilha/42_CPP)</h4>
 
 ###
 
