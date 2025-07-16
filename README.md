@@ -7,7 +7,7 @@
 
 <h4 align="left">My eagerness to learn new skills, and  continuosly challenge myself brought me into the amazing world of progamming. I have a passion for music, books and games. I'm a Biologist with a MSc in Ecology.<br><br>I am currently studying at 42 Porto.<br><br>Here you can find some of my projects!</h4>
 
-💻 Last Project: [Minishell](https://github.com/Daniela-Padilha/minishell)</h4>
+💻 Last Project: [C++ projects](https://github.com/Daniela-Padilha/CPP)</h4>
 
 ###
 
@@ -42,10 +42,8 @@
 
 ## My Projects
 
-📁 Coming Soon...
+#### 🎲 [Tic-Tac-Toe](https://github.com/Daniela-Padilha/tic_tac_toe): My first C++ project.
 
-Stay tuned for upcoming C++ projects and other exciting developments!  
-This section will be updated regularly with descriptions, goals, and links to each project repository.
 
 ## Academic Projects
 </details>
