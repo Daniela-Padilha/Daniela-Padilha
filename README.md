@@ -64,7 +64,7 @@
 | [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| Completed | C       | 100 / 100 ✅ |
 | [Fdf](https://github.com/Daniela-Padilha/42_fdf)| Completed | C       | 123 / 100 ✅ ✨ |
 | [Minishell](https://github.com/Daniela-Padilha/minishell)| Completed | C       | 98 / 100      ✅ |
-| [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| In Progress... | C       | ❓❓❓ / 100 |
+| [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| Completed | C       | 100 / 100 ✅ |
 | [CPP00](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP00)| In Progress... | C++     | ❓❓❓ / 100 |
 | [CPP01](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP01)| Soon... | C++     | ❓❓❓ / 100 |
 | [CPP02](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP02)| Soon... | C++     | ❓❓❓ / 100 |
