@@ -68,7 +68,7 @@ My eagerness to learn new skills and continuously challenge myself has brought m
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Daniela-Padilha/42_CPP/tree/main/42_CPP">C++ Modules</a></td>
+      <td><a href="https://github.com/Daniela-Padilha/42_CPP">C++ Modules</a></td>
       <td>C++, OOP, Abstraction, Encapsulation, Inheritance, Polymorphism</td>
       <td>An introduction to Object-Oriented Programming. The modules follow the C++98 standard to teach the fundamentals in a simpler way.</td>
       <td><strong>In Progress...</strong></td>
