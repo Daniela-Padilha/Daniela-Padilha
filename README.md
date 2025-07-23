@@ -1,13 +1,27 @@
 
 ![](https://github.com/Daniela-Padilha/Aesthetic/blob/main/dds1ndp-69dbc70d-57e7-42ec-b66d-ba721437c54a.gif)
 
-<h2 align="left">Hi! I'm Daniela</h2> <a href="mailto: danielasofiapadilha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://www.linkedin.com/in/daniela-sofia-padilha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h2 align="left">Hi! I'm Daniela 👋</h2>
 
 ###
 
-<h4 align="left">My eagerness to learn new skills, and  continuosly challenge myself brought me into the amazing world of progamming. I have a passion for music, books and games. I'm a Biologist with a MSc in Ecology.<br><br>I am currently developing my programming skills at 42 Porto.<br><br>Here you can find some of my projects!</h4>
+My eagerness to learn new skills, and continuosly challenge myself brought me into the amazing world of progamming 
 
-💻 Last Project: [C++ projects](https://github.com/Daniela-Padilha/42_CPP)</h4>
+👩‍💻 I am currently developing my programming skills at 42 Porto.
+
+🧠 I'm currently learning C++.
+
+⚡️ Fun fact: I'm a Biologist with a passion for music, books and games.
+
+💻 Last Project: [C++ projects](https://github.com/Daniela-Padilha/42_CPP)
+
+
+<a href="mailto:danielasofiapadilha@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me via Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/daniela-sofia-padilha/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
 
 ###
 
@@ -19,7 +33,7 @@
 </div>
 
 ###
-## Skills
+## 🛠 Skills
 <div align="center">
 
 | Category                 | Tools                                 |
