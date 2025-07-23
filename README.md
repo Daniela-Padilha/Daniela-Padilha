@@ -5,15 +5,15 @@
 
 ###
 
-My eagerness to learn new skills, and continuosly challenge myself brought me into the amazing world of progamming 
+My eagerness to learn new skills and continuously challenge myself has brought me into the amazing world of programming.
 
 👩‍💻 I am currently developing my programming skills at 42 Porto.
 
 🧠 I'm currently learning C++.
 
-⚡️ Fun fact: I'm a Biologist with a passion for music, books and games.
+⚡️ Fun fact: I'm a biologist with a passion for music, books, and games.
 
-💻 Last Project: [C++ projects](https://github.com/Daniela-Padilha/42_CPP)
+💻 Last Project: [C++ Modules](https://github.com/Daniela-Padilha/42_CPP)
 
 
 <a href="mailto:danielasofiapadilha@gmail.com" target="_blank">
