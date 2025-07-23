@@ -19,49 +19,102 @@
 </div>
 
 ###
-
 ## Skills
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,vscode,vim,git,github,notion" />
-  </a>
-</div>
 
-<br clear="both">
+| Category                 | Tools                                 |
+|--------------------------|---------------------------------------|
+| Programming Languages    | C, C++                                |
+| Operating Systems        | Linux                                 |
+| Debugging & Dev Tools    | GDB, Valgrind, Makefile, Shell Scripting |
+| Databases                | SQLite                                |
+| Data Analysis            | Excel, Google Sheets                  |
+| Visualization            | PowerBI, QGIS, PowerPoint             |
+| Version Control          | Git                                   |
+| Productivity/Collab      | Notion, Canva                         |
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
-  <img width="3" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="40" alt="powerbi logo" />
-  <img width="3" />
-  <img src="https://www.qgis.org/styleguide/visual/qgis-logo.png" height="40" alt="qgis logo" />
 </div>
 
 ###
 
 ## Extra Projects
 
-- 🎲 [Tic-Tac-Toe](https://github.com/Daniela-Padilha/tic_tac_toe): My first C++ project.
+- 🎲 [Tic-Tac-Toe](https://github.com/Daniela-Padilha/tic_tac_toe): My first C++ graphical project.
 
 ## Projects
-<div align="center">
 
-| Project | Skills  | About | Status       |
-| ------- | -------- | -------- | ----------- |
-| [C++ Modules](https://github.com/Daniela-Padilha/42_CPP/tree/main/42_CPP)| C++, Object-Oriented Programming, Abstraction, Encapsulation, Inheritance, Polymorphism |  | In Progress... |
-| [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| C, Concurrent programming, Multithreading, Mutexes, Multiprocessing, Semaphores |  | Completed |
-| [Minishell](https://github.com/Daniela-Padilha/minishell)| C, Command Line Interface, Tokenization, Abstract Syntax Tree |  | Completed |
-| [Fdf](https://github.com/Daniela-Padilha/42_fdf)| C, Graphic libraries |  | Completed |
-| [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| C, Algorithms |  | Completed |
-| [Pipex](https://github.com/Daniela-Padilha/42_pipex)| C, UNIX processes, Redirections and Pipes, Heredoc |  | Completed |
-| [Born2beroot](https://github.com/Daniela-Padilha/42_born2beroot)| Debian OS, Virtual Box, SHell, Sistem Administration, Virtualization |  | Completed |
-| [get_next_line](https://github.com/Daniela-Padilha/42_get_next_line)| C, File descriptors |  | Completed |
-| [ft_printf](https://github.com/Daniela-Padilha/42_ft_printf)| C, Variadic functions |  | Completed |
-| [libft](https://github.com/Daniela-Padilha/42_libft) | C, Static libraries, Makefile |  | Completed |
-
-
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Skills</th>
+      <th>About</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_CPP/tree/main/42_CPP">C++ Modules</a></td>
+      <td>C++, OOP, Abstraction, Encapsulation, Inheritance, Polymorphism</td>
+      <td>An introduction to Object-Oriented Programming. The modules follow the C++98 standard to teach the fundamentals in a simpler way.</td>
+      <td><strong>In Progress...</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_philosophers">Philosophers</a></td>
+      <td>C, Concurrent Programming, Multithreading, Mutexes, Multiprocessing, Semaphores</td>
+      <td>This project approaches the basics of threads.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/minishell">Minishell</a></td>
+      <td>C, CLI, Tokenization, Abstract Syntax Tree</td>
+      <td>A mini version of Bash. Done in partnership with <a href="https://github.com/izzytoot">Isabel Tootill</a>.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_fdf">Fdf</a></td>
+      <td>C, Graphic Libraries</td>
+      <td>A wireframe modeling project.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_push_swap">Push_Swap</a></td>
+      <td>C, Algorithms, Optimized Data Sorting</td>
+      <td>This project deals with sorting algorithms, complexity, and efficiency.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_pipex">Pipex</a></td>
+      <td>C, UNIX Processes, Redirections, Pipes, Heredoc</td>
+      <td>An introductory project to UNIX processes.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_born2beroot">Born2beroot</a></td>
+      <td>Debian OS, VirtualBox, Shell, System Administration, Virtualization</td>
+      <td>This project challenged me to set up a virtual machine under specific instructions.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_get_next_line">get_next_line</a></td>
+      <td>C, File Descriptors</td>
+      <td>My version of the <code>getline</code> function.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_ft_printf">ft_printf</a></td>
+      <td>C, Variadic Functions</td>
+      <td>My version of the <code>printf</code> function.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_libft">libft</a></td>
+      <td>C, Static Libraries, Makefile</td>
+      <td>My own C standard library.</td>
+      <td><strong>Completed</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Data Analysis
 
