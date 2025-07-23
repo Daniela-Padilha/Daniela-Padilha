@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="left">My eagerness to learn new skills, and  continuosly challenge myself brought me into the amazing world of progamming. I have a passion for music, books and games. I'm a Biologist with a MSc in Ecology.<br><br>I am currently studying at 42 Porto.<br><br>Here you can find some of my projects!</h4>
+<h4 align="left">My eagerness to learn new skills, and  continuosly challenge myself brought me into the amazing world of progamming. I have a passion for music, books and games. I'm a Biologist with a MSc in Ecology.<br><br>I am currently developing my programming skills at 42 Porto.<br><br>Here you can find some of my projects!</h4>
 
 💻 Last Project: [C++ projects](https://github.com/Daniela-Padilha/42_CPP)</h4>
 
@@ -40,96 +40,34 @@
 
 ###
 
-## My Projects
+## Extra Projects
 
-#### 🎲 [Tic-Tac-Toe](https://github.com/Daniela-Padilha/tic_tac_toe): My first C++ project.
-
-
-## Academic Projects
-</details>
-
-<details>
-<summary>42 Common Core</summary>
+- 🎲 [Tic-Tac-Toe](https://github.com/Daniela-Padilha/tic_tac_toe): My first C++ project.
 
 ## Projects
 <div align="center">
 
-| Project | Status   | Language | Score       |
+| Project | Skills  | About | Status       |
 | ------- | -------- | -------- | ----------- |
-| [libft](https://github.com/Daniela-Padilha/42_libft) | Completed | C        | 125 / 100  ✅ ✨ |
-| [ft_printf](https://github.com/Daniela-Padilha/42_ft_printf)| Completed | C        | 100 / 100 ✅ |
-| [get_next_line](https://github.com/Daniela-Padilha/42_get_next_line)| Completed | C        | 125 / 100 ✅ ✨ |
-| [Born2beroot](https://github.com/Daniela-Padilha/42_born2beroot)| Completed | Shell       | 100 / 100 ✅ |
-| [Pipex](https://github.com/Daniela-Padilha/42_pipex)| Completed | C       | 125 / 100 ✅ ✨ |
-| [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| Completed | C       | 100 / 100 ✅ |
-| [Fdf](https://github.com/Daniela-Padilha/42_fdf)| Completed | C       | 123 / 100 ✅ ✨ |
-| [Minishell](https://github.com/Daniela-Padilha/minishell)| Completed | C       | 98 / 100      ✅ |
-| [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| Completed | C       | 100 / 100 ✅ |
-| [CPP00](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP00)| In Progress... | C++     | ❓❓❓ / 100 |
-| [CPP01](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP01)| Soon... | C++     | ❓❓❓ / 100 |
-| [CPP02](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP02)| Soon... | C++     | ❓❓❓ / 100 |
-| [CPP03](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP03)| Soon... | C++     | ❓❓❓ / 100 |
-| [CPP04](https://github.com/Daniela-Padilha/42_CPP/tree/main/CPP04)| Soon... | C++     | ❓❓❓ / 100 |
-| [NetPractice]()| Soon... | Networking     | ❓❓❓ / 100 |
-| [Cubo3D]()| Soon... | C       | ❓❓❓ / 100 |
-</div>
+| [C++ Modules](https://github.com/Daniela-Padilha/42_CPP/tree/main/42_CPP)| C++, Object-Oriented Programming, Abstraction, Encapsulation, Inheritance, Polymorphism |  | In Progress... |
+| [Philosophers](https://github.com/Daniela-Padilha/42_philosophers)| C, Concurrent programming, Multithreading, Mutexes, Multiprocessing, Semaphores |  | Completed |
+| [Minishell](https://github.com/Daniela-Padilha/minishell)| C, Command Line Interface, Tokenization, Abstract Syntax Tree |  | Completed |
+| [Fdf](https://github.com/Daniela-Padilha/42_fdf)| C, Graphic libraries |  | Completed |
+| [Push_Swap](https://github.com/Daniela-Padilha/42_push_swap)| C, Algorithms |  | Completed |
+| [Pipex](https://github.com/Daniela-Padilha/42_pipex)| C, UNIX processes, Redirections and Pipes, Heredoc |  | Completed |
+| [Born2beroot](https://github.com/Daniela-Padilha/42_born2beroot)| Debian OS, Virtual Box, SHell, Sistem Administration, Virtualization |  | Completed |
+| [get_next_line](https://github.com/Daniela-Padilha/42_get_next_line)| C, File descriptors |  | Completed |
+| [ft_printf](https://github.com/Daniela-Padilha/42_ft_printf)| C, Variadic functions |  | Completed |
+| [libft](https://github.com/Daniela-Padilha/42_libft) | C, Static libraries, Makefile |  | Completed |
 
-## Exams
-
-<div align="center">
-
-| Exam | Status   | Language | Score       |
-| ---- | -------- | -------- | ----------- |
-| [Exam 02](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone2)| Completed | C        | 100 / 100 ✅ |
-| [Exam 03](https://github.com/Daniela-Padilha/42_Exam_Study/tree/main/Milestone%203)| Completed | C        | 100 / 100 ✅ |
-| [Exam 04]()| In Progress... | C        | ❓❓❓ / 100 |
-| [Exam 05]()| Soon... | C++        | ❓❓❓ / 100 |
-| ... | ... | ... | ... |
 
 </div>
 
-##
-
-</details>
-
-<details>
-<summary>42 Piscine</summary>
-
-<div align="center">
-
-| Project |  Status   | Language |   Score    |
-| ------- | --------  | -------- | -----------|
-| [Shell00](https://github.com/Daniela-Padilha/42Piscine/tree/main/shell00)   | Completed |    Shell     | 60/100    ✅ |
-| [Shell01](https://github.com/Daniela-Padilha/42Piscine/tree/main/shell01)   | Completed |    Shell     | 55/100    ✅ |
-| [C00](https://github.com/Daniela-Padilha/42Piscine/tree/main/C00)   | Completed |    C     | 85/100    ✅ |
-| [C01](https://github.com/Daniela-Padilha/42Piscine/tree/main/C01)   | Completed |    C     | 70/100   ✅ |
-| [C02](https://github.com/Daniela-Padilha/42Piscine/tree/main/C02)   | Completed |    C     | 75/100    ✅ |
-| [C03](https://github.com/Daniela-Padilha/42Piscine/tree/main/C03)   | Completed |    C     | 75/100    ✅ |
-| [C04](https://github.com/Daniela-Padilha/42Piscine/tree/main/C04)   | Completed |    C     | 70/100    ✅ |
-| [C05](https://github.com/Daniela-Padilha/42Piscine/tree/main/C05)   | Completed |    C     | 80/100    ✅ |
-| [C06](https://github.com/Daniela-Padilha/42Piscine/tree/main/C06)   | Completed |    C     | 70/100   ✅ |
-| [C07](https://github.com/Daniela-Padilha/42Piscine/tree/main/C07)   | Completed |    C     | 60/100    ✅ |
-| [C08](https://github.com/Daniela-Padilha/42Piscine/tree/main/C08)   | Completed |    C     | 70/100   ✅ |
-| [Rush00](https://github.com/Daniela-Padilha/42Piscine/tree/main/rush00)   | Completed |    C     | 116/100  ✅ ✨ |
-| [Rush01](https://github.com/Daniela-Padilha/42Piscine/tree/main/Rush01)   | Failed |    C     | 0/100    ❌  |
-| Exam 00  | Failed |    C     |  10/100    ❌  |
-| Exam 01  | Completed |    C     |  50/100    ✅  |
-| Exam 02  | Completed |    C     |  60/100   ✅ |
-| Final Exam  | Completed |    C     |  48/100   ✅|
-| [Piscine Reload](https://github.com/Daniela-Padilha/Piscine_Reloaded) | Completed | C | 100/100 ✅ ✨ |
-
-</div>
-
-##
-
-</details>
-
-<details>
-<summary>Data Analysis</summary>
+### Data Analysis
 
 <div align="left">
 
-Power BI
+#### Power BI
 
 - [Wine Productivity Project](https://github.com/Daniela-Padilha/Wine_Productivity_Analysis)
 - [Toy Store Sales Project](https://github.com/Daniela-Padilha/ToyStore_Sales_Project)
