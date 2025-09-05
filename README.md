@@ -36,26 +36,28 @@ My eagerness to learn new skills and continuously challenge myself has brought m
 ## 🛠 Skills
 <div align="center">
 
-| Category                 | Tools                                 |
-|--------------------------|---------------------------------------|
-| Programming Languages    | C, C++                                |
-| Operating Systems        | Linux                                 |
+| Category                 | Tools                                    |
+|--------------------------|------------------------------------------|
+| Programming Languages    | C, C++, HTML, CSS, Javascript            |
+| Operating Systems        | Linux                                    |
 | Debugging & Dev Tools    | GDB, Valgrind, Makefile, Shell Scripting |
-| Databases                | SQLite                                |
-| Data Analysis            | Excel, Google Sheets                  |
-| Visualization            | PowerBI, QGIS, PowerPoint             |
-| Version Control          | Git                                   |
-| Productivity/Collab      | Notion, Canva                         |
+| Databases                | SQLite                                   |
+| Data Analysis            | Excel, Google Sheets                     |
+| Visualization            | PowerBI, QGIS, PowerPoint                |
+| Version Control          | Git                                      |
+| Productivity/Collab      | Notion, Canva                            |
 
 </div>
 
 ###
 
-## Extra Projects
+## Frontend Projects
 
-- 🎲 [Tic-Tac-Toe](https://github.com/Daniela-Padilha/tic_tac_toe): My first C++ graphical project.
+<div align="left">
 
-## Projects
+- [Book Survey Form](https://github.com/Daniela-Padilha/)
+
+## Core Projects
 
 <table align="center">
   <thead>
@@ -129,15 +131,5 @@ My eagerness to learn new skills and continuously challenge myself has brought m
     </tr>
   </tbody>
 </table>
-
-### Data Analysis
-
-<div align="left">
-
-#### Power BI
-
-- [Wine Productivity Project](https://github.com/Daniela-Padilha/Wine_Productivity_Analysis)
-- [Toy Store Sales Project](https://github.com/Daniela-Padilha/ToyStore_Sales_Project)
-
 
 </div>
