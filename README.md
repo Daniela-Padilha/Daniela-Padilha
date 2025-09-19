@@ -77,7 +77,7 @@ I’ve always enjoyed learning new skills and pushing myself with new challenges
       <td><strong>In Progress...</strong></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Daniela-Padilha/42_Cub3D">Cub3D</a></td>
+      <td><a href="https://github.com/ricvrdv/cub3d">Cub3D</a></td>
       <td>C, 3D Graphics, MiniLibX, Raycasting, Rendering</td>
       <td>A project focused on creating a 3D raycasting engine in C. It covers 2D map parsing, raycasting algorithms, collision detection, and rendering a 3D environment using MiniLibX.</td>
       <td><strong>In Progress...</strong></td>
