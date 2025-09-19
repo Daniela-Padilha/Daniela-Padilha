@@ -56,6 +56,7 @@ My eagerness to learn new skills and continuously challenge myself has brought m
 <div align="left">
 
 - [Book Survey Form](https://github.com/Daniela-Padilha/Book-Survey-Form)
+- [Bookish Coffee Shop](https://github.com/Daniela-Padilha/Bookish-Coffee-Shop)
 
 ## Core Projects
 
@@ -74,6 +75,12 @@ My eagerness to learn new skills and continuously challenge myself has brought m
       <td>C++, OOP, Abstraction, Encapsulation, Inheritance, Polymorphism</td>
       <td>An introduction to Object-Oriented Programming. The modules follow the C++98 standard to teach the fundamentals in a simpler way.</td>
       <td><strong>In Progress...</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_Net_Practice">NetPractice</a></td>
+      <td>Networking, Subnetting, IP addressing, Routing</td>
+      <td>A practical introduction to computer networking. The project focuses on configuring subnets, understanding IP addresses, and solving routing problems through interactive exercises.</td>
+      <td><strong>Completed</strong></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Daniela-Padilha/42_philosophers">Philosophers</a></td>
