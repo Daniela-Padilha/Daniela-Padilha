@@ -5,7 +5,7 @@
 
 ###
 
-My eagerness to learn new skills and continuously challenge myself has brought me into the amazing world of programming.
+I’ve always enjoyed learning new skills and pushing myself with new challenges. That curiosity eventually led me to discover programming, and I’ve been fascinated by it ever since.
 
 👩‍💻 I am currently developing my programming skills at 42 Porto.
 
