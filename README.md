@@ -77,6 +77,12 @@ I’ve always enjoyed learning new skills and pushing myself with new challenges
       <td><strong>In Progress...</strong></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_Cub3D">Cub3D</a></td>
+      <td>C, 3D Graphics, MiniLibX, Raycasting, Rendering</td>
+      <td>A project focused on creating a 3D raycasting engine in C. It covers 2D map parsing, raycasting algorithms, collision detection, and rendering a 3D environment using MiniLibX.</td>
+      <td><strong>In Progress...</strong></td>
+  </tr>
+    <tr>
       <td><a href="https://github.com/Daniela-Padilha/42_Net_Practice">NetPractice</a></td>
       <td>Networking, Subnetting, IP addressing, Routing</td>
       <td>A practical introduction to computer networking. The project focuses on configuring subnets, understanding IP addresses, and solving routing problems through interactive exercises.</td>
