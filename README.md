@@ -55,8 +55,14 @@ I’ve always enjoyed learning new skills and pushing myself with new challenges
 
 <div align="left">
 
-- [Book Survey Form](https://github.com/Daniela-Padilha/Book-Survey-Form)
-- [Bookish Coffee Shop](https://github.com/Daniela-Padilha/Bookish-Coffee-Shop)
+<h3>Responsive Websites</h3>
+
+  - [Daily Cozy Notes App](https://github.com/Daniela-Padilha/cozy-notes-app) (React and CSS)
+
+<h3>Static Websites</h3>
+
+- [Book Survey Form](https://github.com/Daniela-Padilha/Book-Survey-Form) (HTML and CSS)
+- [Bookish Coffee Shop](https://github.com/Daniela-Padilha/Bookish-Coffee-Shop) (HTML and CSS)
 
 ## Core Projects
 
