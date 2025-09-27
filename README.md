@@ -5,13 +5,10 @@
 
 ###
 
-I thrive on learning and tackling new challenges. Curiosity drove me to programming, and I’ve been building innovative projects ever since.
-
-👩‍💻 I'm sharpening my programming skills at 42 Porto.
-
-🧠 Creating clean, interactive, and engaging web experiences.
-
-⚡️ Fun fact: I'm a biologist with a passion for music, books, and games.
+<p>I thrive on learning and tackling new challenges. Curiosity drove me to programming, and I’ve been building innovative projects ever since.<br>
+👩‍💻 I'm sharpening my programming skills at 42 Porto.<br>
+🧠 Creating clean, interactive, and engaging web experiences.<br>
+⚡️ Fun fact: I'm a biologist with a passion for music, books, and games.</p>
 
 
 <a href="mailto:danielasofiapadilha@gmail.com" target="_blank">
