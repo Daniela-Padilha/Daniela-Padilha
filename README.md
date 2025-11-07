@@ -7,7 +7,7 @@
 
 <p>I thrive on learning and tackling new challenges. Curiosity drove me to programming, and I’ve been building innovative projects ever since.<br>
 👩‍💻 I'm sharpening my programming skills at 42 Porto.<br>
-🧠 Creating clean, interactive, and engaging web experiences.<br>
+🧠 Interested in creating clean, interactive, and engaging web experiences.<br>
 ⚡️ Fun fact: I'm a biologist with a passion for music, books, and games.</p>
 
 
@@ -42,7 +42,7 @@
   <tbody>
     <tr>
      <td>Languages</td>
-      <td>C, C++, HTML, CSS, JavaScript, React</td>
+      <td>C, C++, HTML, CSS, JavaScript</td>
     </tr>
     <tr>
     <td>OS & Environment</td>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
     <td>Databases</td>
-      <td>SQLite</td>
+      <td>SQL</td>
     </tr>
     <tr>
     <td>Visualization & GIS</td>
