@@ -139,6 +139,11 @@
   </thead>
   <tbody>
     <tr>
+     <td><a href="https://daniela-padilha.github.io/weather-app/">Weather App</a></td>
+      <td>Javascript, HTML, CSS</td>
+      <td>A simple weather app, with a clean interface and real-time weather updates. </td>
+    </tr>
+    <tr>
      <td><a href="https://github.com/Daniela-Padilha/my_portfolio">Portfolio</a></td>
       <td>Javascript, HTML, CSS</td>
       <td>A responsive portfolio with interactive features and smooth, lightweight design.</td>
