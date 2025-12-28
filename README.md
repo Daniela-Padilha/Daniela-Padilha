@@ -42,7 +42,7 @@
   <tbody>
     <tr>
      <td>Languages</td>
-      <td>C, C++, HTML, CSS, JavaScript</td>
+      <td>C, C++, Python, HTML, CSS, JavaScript</td>
     </tr>
     <tr>
     <td>OS & Environment</td>
