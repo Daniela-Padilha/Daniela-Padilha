@@ -46,7 +46,7 @@
     </tr>
     <tr>
     <td>OS & Environment</td>
-      <td>Linux</td>
+      <td>Linux, Docker</td>
     </tr>
     <tr>
     <td>Development Tools</td>
