@@ -95,10 +95,10 @@
 
 <td align="center" width="33%">
 
-[**Portfolio (Vanilla JS)**](https://github.com/Daniela-Padilha/my_portfolio)
-- Responsive site built with HTML, CSS, and JavaScript.
-- Interactive project cards with demos, and live source links.
-- Lightweight, accessible design with smooth animations.
+[**WebServ (HTTP Server in C++)**](https://github.com/Daniela-Padilha/42_Web_Server)
+- Custom HTTP/1.1 server implemented from scratch in C++, following RFC specifications.
+- Supports non-blocking I/O, multiplexing (poll), and multiple concurrent clients.
+- Implements core features such as request parsing, routing, static file serving, and CGI execution.
 
 </td>
 <td align="center" width="33%">
@@ -180,6 +180,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_inception">Inception</a></td>
+      <td>System Administration, Docker, Docker Compose</td>
+      <td>This project aims to expand knowledge in system administration through the use of Docker and Docker Compose.</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Daniela-Padilha/42_CPP">C++ Modules 00-09</a></td>
       <td>C++, OOP, Abstraction, Encapsulation, Inheritance, Polymorphism</td>
