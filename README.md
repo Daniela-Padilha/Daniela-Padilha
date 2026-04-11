@@ -180,6 +180,13 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td><a href="https://github.com/Daniela-Padilha/42_Web_Server">WebServ</a></td>
+      <td>Network Programming, HTTP Protocol, Socket Management</td>
+      <td>This project focuses on building a fully functional HTTP server from scratch, deepening understanding of low-level networking, request handling, and efficient resource management.
+        Done in partnership with <a href="https://github.com/ricvrdv">Ricardo Garcia</a> and <a href="https://github.com/d-branco"> Andre Dinis</a>.
+      </td>
+    </tr>
     <tr>
       <td><a href="https://github.com/Daniela-Padilha/42_inception">Inception</a></td>
       <td>System Administration, Docker, Docker Compose</td>
